@@ -223,3 +223,10 @@ footer {
     flex-direction: column;
   }
 }
+.taglin{
+ color: green;
+ font-size: 130%;
+}
+.red{
+font-size: 160%;
+}
